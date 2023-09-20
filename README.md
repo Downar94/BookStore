@@ -11,7 +11,7 @@ Detailed information about available endpoints can be found [here](#endpoints).
 ## Used technologies:
 * Spring Boot
 * Spring Security
-* JPA / Hibernate
+* Hibernate / JPA
 * Maven
 * Java
 * MySQL
