@@ -146,3 +146,39 @@ There are 2 different basic controllers - one for `admin` role and another for `
 
 ![add_to_cart_and_clear_the_cart](https://github.com/Downar94/BookStore/assets/44844566/36d49ec7-8f78-4d1e-9ea9-f3bd884f4928)
 
+## Sample Screenshots
+### User authentication
+
+![authentication](https://github.com/Downar94/BookStore/assets/44844566/7ab61a61-1486-49d9-b3cf-63b7002b9e26)
+
+### Updating contact informations
+
+![update_contact_informations](https://github.com/Downar94/BookStore/assets/44844566/75d11bf2-08c4-4e84-940a-b09e5d6b3539)
+
+### Creating product
+
+![creating_product](https://github.com/Downar94/BookStore/assets/44844566/0d1c58de-bdf2-4d32-80b2-a1c2ef21d3ba)
+
+### Displaying product list
+
+![display_product_list](https://github.com/Downar94/BookStore/assets/44844566/857ba2b8-35d8-4e86-af80-1b2544ca8130)
+
+### Adding product with quantity = 3 to the cart
+
+![Adding_product_2_with_quantity_to_card](https://github.com/Downar94/BookStore/assets/44844566/d2c6b391-43c7-4cc1-8e29-33b4585c63ab)
+
+### Creating review for product
+
+![adding_review](https://github.com/Downar94/BookStore/assets/44844566/8c04f190-8c92-44fd-bb70-45357a910bb4)
+
+### Displaying review list
+
+![display_review_list](https://github.com/Downar94/BookStore/assets/44844566/ecd7e3e8-ea28-4b10-a004-d4e2d617763a)
+
+### Updating review 
+
+![updating_review](https://github.com/Downar94/BookStore/assets/44844566/0f3ced34-a131-4256-93c7-b6ab8fd974dc)
+
+### Deleting product
+
+![deleting_product](https://github.com/Downar94/BookStore/assets/44844566/81701228-32f9-467c-aa93-6c1f2b85774b)
